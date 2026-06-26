@@ -1,8 +1,8 @@
-#  ARA 팀
+#  Mihye 팀
 
 # 팀 소개
 
-## 팀명: ara
+## 팀명: mihye
 
 ## 목표
 사내 직원들을 위한 Agentic AI 시스템을 개발하고 운영
